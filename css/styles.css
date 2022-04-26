@@ -3,7 +3,12 @@ body {
     background-color: sandybrown;
 }
 
-h1, h2, h3 {
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bluegit;
+} 
+
+h2, h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
